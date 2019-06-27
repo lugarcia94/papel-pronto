@@ -11,7 +11,7 @@ export const Header = styled.header`
 
     i {
         font-size: 24px;
-        color: #4c989f;
+        color: #d507d4;
     }
     span {
         display: none;
